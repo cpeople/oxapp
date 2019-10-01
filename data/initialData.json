@@ -1,0 +1,65 @@
+{
+  "cardResults": [
+    {
+      "cardHolderName": "DANIEL LAZEREV",
+      "cardNumber": "5421143557869123",
+      "cardMonth": "11",
+      "cardYear": "2025",
+      "cardCvv": "127",
+      "cardColor": null,
+      "cardType": "UZCARD",
+      "cardAmount": "130000"
+    },
+    {
+      "cardHolderName": "ROMAN RUSTI",
+      "cardNumber": "5421143557869444",
+      "cardMonth": "12",
+      "cardYear": "2024",
+      "cardCvv": "227",
+      "cardColor": null,
+      "cardType": "VISA",
+      "cardAmount": "130000"
+    },
+    {
+      "cardHolderName": "ALISHER YAN",
+      "cardNumber": "5421143557869093",
+      "cardMonth": "01",
+      "cardYear": "2023",
+      "cardCvv": "327",
+      "cardColor": null,
+      "cardType": "UZCARD",
+      "cardAmount": "130000"
+    },
+    {
+      "cardHolderName": "KIM CHIN IN",
+      "cardNumber": "5421143557869999",
+      "cardMonth": "02",
+      "cardYear": "2022",
+      "cardCvv": "427",
+      "cardColor": null,
+      "cardType": "VISA",
+      "cardAmount": "130000"
+    }
+  ],
+
+  "walletResults": [
+    {
+      "userId": "141",
+      "cashAmount": "110000",
+      "poinAmount": "110000",
+      "debtAmount": "110000",
+      "companyName": "Eurasia",
+      "companyLogo": "",
+      "walletBackground": ""
+    },
+    {
+      "userId": "141",
+      "cashAmount": "110000",
+      "poinAmount": "3.4",
+      "debtAmount": "0",
+      "companyName": "Eurasia",
+      "companyLogo": "",
+      "walletBackground": ""
+    }
+  ]
+}
